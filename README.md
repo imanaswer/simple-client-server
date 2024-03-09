@@ -48,9 +48,6 @@ This is a basic client-server communication project using Python sockets. The cl
 - The server and client scripts are basic examples and may need modifications for production use.
 - Ensure that the server is running before attempting to connect with the client.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
